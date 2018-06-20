@@ -1,0 +1,55 @@
+body {
+	background-color: #000000;
+	color: #ffffff;
+	font-family: sans-serif;
+}
+
+a:link {
+	color: #ae31ec;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #ae31ec;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ae31ec;
+	text-decoration: underline;
+}
+
+a.listing:link {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a.listing:hover {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+a.listing:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+table {
+	width: 100%;
+}
+
+td {
+	vertical-align: top;
+}
+
+tr.row0 td {
+	background-color: #000000;
+}
+
+tr.row1 td {
+	background-color: #383838;
+}
+
+p.header {
+	text-align: center;
+}
